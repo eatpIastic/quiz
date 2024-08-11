@@ -1,6 +1,6 @@
 /// <reference types="../CTAutocomplete" />
 
-import registerWhen from "../BloomCore/utils/Utils";
+import { registerWhen } from "../BloomCore/utils/Utils";
 import Dungeon from "../BloomCore/Dungeons/Dungeon";
 
 let questionTime = 0;
